@@ -1,4 +1,5 @@
 # French Toast
+![image](https://user-images.githubusercontent.com/114627044/197695372-ae81591f-6c52-410a-b206-e8f43169bca0.png)
 
 ## Servings: 4
 
