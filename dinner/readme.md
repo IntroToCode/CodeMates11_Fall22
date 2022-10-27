@@ -1,4 +1,5 @@
 # IKEA Swedish Meatballs Recipe
+![image](https://user-images.githubusercontent.com/114627044/198161043-ec759af1-eb34-4535-899d-e59454357dc7.png)
 
 ## Servings: 8
 
